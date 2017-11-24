@@ -28,7 +28,7 @@ On Android, donwload a NFC Tools. Then start the app, check if NFC is activated
 on your smartphone. Put your smartphone near the tag, you can read it. You can
 write a tag with this app.
 
-# Dependencies
+## Dependencies
 
 The X-NUCLEO-NFC01A1 library requires the following STM32duino library:
 
